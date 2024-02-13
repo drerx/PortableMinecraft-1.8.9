@@ -5,7 +5,7 @@ This is a portable version of Minecraft 1.8.9 that you can run from a USB drive 
 - Download the zip file from Release / git clone the repo.
 - Extract the zip file to your USB drive or any other removable device.
 - Run the Start.bat
-- Log in with your Minecraft account or play offline.
+- Type the username you want, and the windows size (width & height)
 - Have fun!
 
 ## Privacy
